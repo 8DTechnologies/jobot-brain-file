@@ -1,4 +1,4 @@
-# hubot-brain-file
+# Jobot-brain-file
 
 Hubot utility that save the brain on the filesystem
 
@@ -8,17 +8,14 @@ See [`src/hubot-brain-file.coffee`](src/hubot-brain-file.coffee) for full docume
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-brain-file --save`
+`npm install jobot-brain-file --save`
 
-Then add **hubot-hubot-brain-file** to your `external-scripts.json`:
+Then add **jobot-brain-file** to your `external-scripts.json`:
 
 ```json
-["hubot-hubot-brain-file"]
+["jobot-brain-file"]
 ```
 
-## Sample Interaction
-
-```
-user1>> hubot hello
-hubot>> hello!
-```
+## The script 
+ It will save the brain on the file system. it uses FILE_BRAIN_PATH as path otherwise it uses /var/hubot by default.
+ The JSON is indented with 4 spaces.  

@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-brain-file.git"
+    "url": "git://github.com/8DTechnologies/jobot-brain-file.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-brain-file/issues"
+    "url": "https://github.com/8DTechnologies/jobot-brain-file/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6"
