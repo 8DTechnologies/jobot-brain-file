@@ -1,7 +1,7 @@
 {
   "name": "jobot-brain-file",
   "description": "Hubot utility that save the brain on the filesystem",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "author": "Samuel Boucher <boucher.samuel.c@gmail.com>",
   "license": "MIT",
   "keywords": [
