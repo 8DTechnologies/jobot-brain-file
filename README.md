@@ -17,5 +17,5 @@ Then add **jobot-brain-file** to your `external-scripts.json`:
 ```
 
 ## The script 
- It will save the brain on the file system. it uses FILE_BRAIN_PATH as path otherwise it uses /var/hubot by default.
+ It will save the brain on the file system. it uses FILE_BRAIN_PATH as path otherwise the curent working directory.
  The JSON is indented with 4 spaces.  
